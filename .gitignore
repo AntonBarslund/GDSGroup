@@ -7,3 +7,6 @@
 995,000_row_tokenized.csv
 995,000_rows_cleaned.csv
 Komprimeret arkiv.zip
+*.keras
+*.csv
+*.zip
