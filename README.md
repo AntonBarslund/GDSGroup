@@ -1,13 +1,13 @@
-1. Project Title & Description – A brief overview of what the project does.
+1. Project Title & Description – A sequence of how to run the code
 
 Fake News Project:
 
-
-
-
-
-
-
+Run sequnce: 
+    1. cleaned_data.ipynb
+    2. exploration.ipynb
+    3. logistic_regression.ipynb
+    4. nn.ipynb
+    5. evaluation.ipynb
 
 
 
