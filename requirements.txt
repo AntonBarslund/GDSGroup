@@ -1,32 +1,16 @@
-import pandas as pd
-import numpy as np
-import nltk
-import re
-from cleantext.clean import clean
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-from nltk.stem import PorterStemmer
-from nltk import pos_tag
-from tqdm import tqdm
-import swifter
-import ast
-import json
-
-from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import f1_score, accuracy_score
-from sklearn.preprocessing import LabelEncoder
-
-import torch
-import torch.nn as nn
-import torch.optim as optim
-from torch.utils.data import DataLoader, TensorDataset
-
-from tensorflow.keras.utils import to_categorical
-from tensorflow.keras import models, layers
-from tensorflow.keras.layers import Input
-import tensorflow as tf
-
-import matplotlib.pyplot as plt
-from scipy.sparse import csr_matrix
+clean-text==0.6.0
+jsonpointer==2.0
+keras==3.9.0
+matplotlib==3.10.1
+nltk==3.9.1
+numpy==2.1.3
+pandas==2.2.3
+regex==2024.11.6
+scikit-learn==1.6.1
+scipy==1.15.2
+seaborn==0.13.2
+swifter==1.4.0
+tensorboard==2.19.0
+tensorboard-data-server==0.7.2
+tensorflow==2.19.0
+tqdm==4.67.1

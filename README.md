@@ -2,12 +2,14 @@
 
 Fake News Project:
 
+To run this, place the dataset in a directory caled data and add the liar dataset folder to that directory too.
 Run sequnce: 
     1. cleaned_data.ipynb
     2. exploration.ipynb
-    3. logistic_regression.ipynb
-    4. nn.ipynb
-    5. evaluation.ipynb
+    3. BBC_news_data_preprocsseing.ipynb
+    4. logistic_regression.ipynb
+    5. nn.ipynb
+    6. evaluation.ipynb
 
 
 
@@ -18,9 +20,8 @@ Simple logistic regression model:
     Accuracy score: 93.6%
 
 Neural network:
-    F1-score: 93.3%
-    Accuracy score: 97.4%
-
+    F1-score: 97.7%
+    Accuracy score: 96.6%
 
 
 3. Contact Information – How to reach the project maintainers.
