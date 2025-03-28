@@ -28,6 +28,6 @@ Neural network:
 
 Name                  |     E-mail
 Anton Ankjær Barslund |     qjr900@alumni.ku.dk
-Jeppe Bonde Bakkesen  |     slr105@alumni.ku.dk
+Jeppe Bonde Bakkensen |     slr105@alumni.ku.dk
 Oskar Windfeld        |     pqw926@alumni.ku.dk
 Tue Kauffmann         |     bgr626@alumni.ku.dk
